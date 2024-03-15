@@ -1,0 +1,124 @@
+.insta{
+display: flex;
+flex-direction:column;
+margin-top:30px;
+margin-left:auto;
+margin-right:auto;
+width:345px; 
+border:1px solid #ccc;
+ height:360px; 
+}
+.image{
+height:70px;
+width:195px;
+margin-left:69px;
+margin-top:35px;
+}
+#name{
+height:35px;
+margin-top:15px;
+margin-left:39px;
+width:250px;
+border:1px solid #ccc;
+background-color:#FAFAFA;
+padding-left:10px;
+}
+#password{
+height:35px;
+margin-top:5px;
+margin-left:39px;
+width:250px;
+border:1px solid #ccc;
+background-color:#FAFAFA;
+padding-left:10px;
+}
+.button{
+margin-left:42px;
+margin-top:10px;
+height:30px;
+width:260px;
+border-radius:8px;
+background-color:#4CB5F9;
+color:white;
+border-color: #4CB5F9;
+border:none;
+cursor: pointer;
+}
+.or{
+position: relative;
+top:18px;
+margin-left:50px;
+color:grey;
+font-size:15px;
+}
+.facebook{
+height:20px;
+width:20px;
+margin-left:80px;
+margin-top:29px;
+}
+.font{
+color:#385195;
+margin-left:5px;
+cursor: pointer;
+margin-top:29px;
+}
+.forgot{
+font-size:14px;
+margin-top:35px;
+margin-left:110px;
+color:#385195;
+cursor:pointer;
+}
+.secondpart{
+margin-top:10px;
+margin-left: auto;
+margin-right:auto;
+display:flex;
+flex-direction: row;
+border:1px solid #ccc;
+height:55px;
+width:345px;
+padding-top:4px;
+}
+.dont{
+margin-left:60px;
+}
+.sign{
+color:#0095F6;
+margin-left:2px;
+cursor:pointer;
+}
+.get{
+margin-left:720px;
+margin-top:15px;
+}
+.third{
+display: flex;
+flex-direction: row;
+}
+.googleplay{
+margin-left:630px;
+height:40px;
+width:120px;
+}
+.microsoft{
+margin-left:15px;
+height:40px;
+width:120px;
+}
+.fourth{
+display:flex;
+flex-direction: row;
+margin-left:290px;
+margin-top:40px;
+font-size:14px;
+color:grey;
+}
+.fifth{
+display:flex;
+flex-direction: row;
+margin-left:650px;
+font-size:14px;
+color:grey;
+}
